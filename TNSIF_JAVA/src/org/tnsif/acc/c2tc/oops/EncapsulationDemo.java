@@ -31,8 +31,5 @@ public class EncapsulationDemo {
 		obj.setAge(34);
 		System.out.println(obj.getName());
 		System.out.println(obj.getAge());
-		
-
 	}
-
 }
