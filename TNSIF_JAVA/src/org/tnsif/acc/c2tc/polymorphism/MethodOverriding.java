@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.polymorphism;
+;;;;;;;;;;;;;;;;;;;;;package org.tnsif.acc.c2tc.polymorphism;
 
 class Calculator{
 	
