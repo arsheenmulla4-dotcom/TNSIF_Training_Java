@@ -1,4 +1,4 @@
-package jr_devoloper;
+package org.tnsif.acc.c2tc.jr_devoloper;
 
 public class KIA_Speedlimit {
 	
