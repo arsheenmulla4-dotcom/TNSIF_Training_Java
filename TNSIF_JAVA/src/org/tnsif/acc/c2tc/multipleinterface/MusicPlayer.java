@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.multipleinterfacedemo;
+package org.tnsif.acc.c2tc.multipleinterface;
 
 public interface MusicPlayer {
 	void playmusic();
